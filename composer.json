@@ -1,5 +1,5 @@
 {
-    "name": "botman/driver-telegram",
+    "name": "gnurlan/driver-telegram",
     "license": "MIT",
     "description": "Telegram driver for BotMan",
     "keywords": [
@@ -7,7 +7,7 @@
         "BotMan",
         "Telegram"
     ],
-    "homepage": "http://github.com/botman/driver-telegram",
+    "homepage": "http://github.com/gnurlan/driver-telegram",
     "authors": [
         {
             "name": "Marcel Pociot",
